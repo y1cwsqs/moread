@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "1.19.2",
-  "apkUrl": "https://github.com/y1cwsqs/moread/releases/download/v1.19.2/moread-1.19.2.apk",
-  "changelog": "· 新增更新通知\n· 验证页支持走内置节点\n· 新增漫蛙、禁漫两个图源",
+  "versionCode": 34,
+  "versionName": "1.19.3",
+  "apkUrl": "https://github.com/y1cwsqs/moread/releases/download/v1.19.3/moread-1.19.3.apk",
+  "changelog": "· 新增更新通知，装完自动检查\n· 验证页支持走内置节点\n· 新增漫蛙、禁漫两个图源",
   "size": 0
 }
